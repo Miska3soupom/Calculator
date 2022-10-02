@@ -83,7 +83,6 @@ internal class Program
                         Console.WriteLine("Введите ещё одну операцию: ");
                         operation = Convert.ToInt32(Console.ReadLine());
                         break;
-
                     case 8:
                         Console.WriteLine("Введите число: ");
                         a = Convert.ToInt32(Console.ReadLine());
