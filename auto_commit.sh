@@ -1,0 +1,1 @@
+git add . && git commit -m "Автокомит" && git push origin
