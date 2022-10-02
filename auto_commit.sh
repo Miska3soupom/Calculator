@@ -1,1 +1,1 @@
-git add . && git commit -m "Автокомит" && git push origin
+git add . && git commit -m "Autocommit" && git push origin
