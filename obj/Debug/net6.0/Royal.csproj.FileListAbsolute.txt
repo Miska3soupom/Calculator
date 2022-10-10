@@ -1,0 +1,15 @@
+D:\Visa\Фортепиано\Royal\bin\Debug\net6.0\Royal.exe
+D:\Visa\Фортепиано\Royal\bin\Debug\net6.0\Royal.deps.json
+D:\Visa\Фортепиано\Royal\bin\Debug\net6.0\Royal.runtimeconfig.json
+D:\Visa\Фортепиано\Royal\bin\Debug\net6.0\Royal.dll
+D:\Visa\Фортепиано\Royal\bin\Debug\net6.0\Royal.pdb
+D:\Visa\Фортепиано\Royal\obj\Debug\net6.0\Royal.csproj.AssemblyReference.cache
+D:\Visa\Фортепиано\Royal\obj\Debug\net6.0\Royal.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visa\Фортепиано\Royal\obj\Debug\net6.0\Royal.AssemblyInfoInputs.cache
+D:\Visa\Фортепиано\Royal\obj\Debug\net6.0\Royal.AssemblyInfo.cs
+D:\Visa\Фортепиано\Royal\obj\Debug\net6.0\Royal.csproj.CoreCompileInputs.cache
+D:\Visa\Фортепиано\Royal\obj\Debug\net6.0\Royal.dll
+D:\Visa\Фортепиано\Royal\obj\Debug\net6.0\refint\Royal.dll
+D:\Visa\Фортепиано\Royal\obj\Debug\net6.0\Royal.pdb
+D:\Visa\Фортепиано\Royal\obj\Debug\net6.0\Royal.genruntimeconfig.cache
+D:\Visa\Фортепиано\Royal\obj\Debug\net6.0\ref\Royal.dll
