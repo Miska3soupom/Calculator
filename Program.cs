@@ -26,7 +26,7 @@ internal class Program
                 case ConsoleKey.F5:
                     Console.Clear(); Console.WriteLine("6 октава");
                     kluch = oktava(4); break;
-                default: Console.WriteLine("Выберете октаву заново"); break;
+                default: Console.WriteLine("Выберете октаву заново");kluch = Console.ReadKey().Key; break;
             }
         }
         Console.WriteLine("\n\tВСЕ-ГО ХО-РО-ШЕ-ГО!");
